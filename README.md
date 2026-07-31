@@ -1,6 +1,6 @@
 # Köln Events – automatisch aktualisierter ICS-Kalender
 [![Website](https://img.shields.io/badge/Website-online-brightgreen)](https://mepfisto.github.io/koeln-events-kalender/)
-[![last commit]](https://img.shields.io/github/last-commit/Mepfisto/koeln-events-kalender)](https://github.com/Mepfisto/koeln-events-kalender)
+[![last commit](https://img.shields.io/github/last-commit/Mepfisto/koeln-events-kalender)](https://github.com/Mepfisto/koeln-events-kalender)
 
 Ein kostenloser Kalender mit ausgewählten Veranstaltungen in Köln.
 
