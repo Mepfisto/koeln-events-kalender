@@ -1,0 +1,46 @@
+name: Kalender aktualisieren
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "data/**"
+      - "sources.json"
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Kalender erzeugen
+        run: python -m src.calendar_builder
+
+      - name: Änderungen speichern
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Kalender automatisch aktualisiert"
+          file_pattern: "docs/*.ics docs/*.json docs/*.html"
