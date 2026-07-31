@@ -1,12 +1,122 @@
 [
   {
+    "title": "Deutz feiert!",
+    "start": "2026-08-01T00:00:00+02:00",
+    "end": "2026-08-02T23:59:59+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/deutz-feiert/",
+    "description": "<p>Auf Kölns Schäl Sick steigt am 1. und 2. August 2026 in Deutz (an der Deutzer Freiheit) ein großes Stadtteil- und Familienfest. </p>\\n",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
+    "title": "Gebrauchtradmarkt Agnesviertel",
+    "start": "2026-08-01T08:00:00+02:00",
+    "end": "2026-08-01T16:00:00+02:00",
+    "location": "Agneskirchplatz, Vorplatz Agneskirche/Neusser Platz 50670 Köln",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/gebrauchtradmarkt-agnesviertel/2026-08-01/",
+    "description": "",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
     "title": "Kölner Lichter 2026",
     "start": "2026-08-01T15:00:00+02:00",
-    "end": "2026-08-02T00:00:00+02:00",
-    "location": "Rheinufer Köln",
-    "category": "Großveranstaltung",
-    "url": "https://www.koelner-lichter.de/",
-    "description": "Manuell gepflegter Reserveeintrag. Vor Besuch Originalquelle prüfen.",
-    "source": "Manuell"
+    "end": "2026-08-01T23:30:00+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/koelner-lichter-2026/",
+    "description": "<p>Das musiksynchrone Feuerwerkspektakel findet am 1. August 2026 auf dem Rhein statt, ein Ereignis für Hunderttausende Besucher.</p>\\n",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
+    "title": "Cro-Mags & Support",
+    "start": "2026-08-01T20:00:00+02:00",
+    "end": "2026-08-01T20:00:00+02:00",
+    "location": "Gebäude 9, Deutz-Mülheimer Strasse 117 (ehemals 127) 51063 Köln",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/cro-mags-conservative-military-image/",
+    "description": "<p>(z.Z. keine weiteren Angaben)</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Deafheaven",
+    "start": "2026-08-02T20:00:00+02:00",
+    "end": "2026-08-02T20:00:00+02:00",
+    "location": "Die Kantine, Neusser Landstr. 2 50735 Köln",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/deafheaven/",
+    "description": "<p>(z.Z. keine weiteren Angaben)</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Arch Enemy – Back to the Root of all Evil Tour 2026",
+    "start": "2026-08-02T20:00:00+02:00",
+    "end": "2026-08-02T20:00:00+02:00",
+    "location": "Club Volta, Schanzenstr. 6 - 20, Gebäude 2.10 51063 Köln",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/arch-enemy-back-to-the-root-of-all-evil-tour-2026/",
+    "description": "<p>Das schwedische Metal-Kraftpaket Arch Enemy schlägt ein neues Kapitel auf und präsentiert mit „Blood Dynasty“ den ersten neuen Song seit dem letzten Albumzyklus.</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Rick Astley – Summer Shows 2026",
+    "start": "2026-08-04T19:00:00+02:00",
+    "end": "2026-08-04T19:00:00+02:00",
+    "location": "Open Air am Tanzbrunnen Köln, Rheinparkweg 1 50679 Köln",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/rick-astley-summer-shows-2026/",
+    "description": "<p>Mit Hits wie „Never Gonna Give You Up“ oder „Together Forever“ schrieb Rick Astley Musikgeschichte. Nun ist er auf Tour - auch in Köln. </p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Weinfest am Rhein",
+    "start": "2026-08-05T00:00:00+02:00",
+    "end": "2026-08-09T23:59:59+02:00",
+    "location": "Promenade im Rheinauhafen, Laura-Oelbermann-Promenade 50668 Köln",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/weinfest-am-rhein/",
+    "description": "<p>Das Weinfest am Rhein nimmt Weinfreunde mit auf eine Entdeckungsreise durch eine Auswahl deutscher und europäischer Weinanbaugebiete und Weingüter.</p>\\n",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
+    "title": "Trauben- & Hopfenfest an der Rheinpromenade",
+    "start": "2026-08-14T00:00:00+02:00",
+    "end": "2026-08-16T23:59:59+02:00",
+    "location": "",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/trauben-hopfenfest-an-der-rheinpromenade/",
+    "description": "<p>Bei einem traumhaften Blick auf den Rhein könnt ihr entlang der Rheinpromenade zwischen Hohenzollernbrücke und Bastei das sommerliche Wetter genießen und euch gleichzeitig mit kulinarischen Spezialitäten verwöhnen lassen.</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Das Rot-Weiße Straßenfest – Porz feiert!",
+    "start": "2026-08-28T16:00:00+02:00",
+    "end": "2026-08-30T16:00:00+02:00",
+    "location": "Siehe Beschreibung",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/das-rot-weisse-strassenfest-porz-feiert/",
+    "description": "<p>Vom 28. bis 30. August 2026 wird der Parkplatz an der Kirche in Wahn zum Treffpunkt für das ganze Veedel – mit Live-Musik von Kaschämm und MAM (BAP-Tribute), Tanzcorps und toller Geselligkeit.</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Herthastraßenfest",
+    "start": "2026-09-12T13:00:00+02:00",
+    "end": "2026-09-12T21:00:00+02:00",
+    "location": "",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/herthastrassenfest/",
+    "description": "<p>Bei dem Straßenfest in der Herthastraße in Zollstock lautet das Motto in jedem Jahr „Von Nachbarn für Nachbarn“. Die Kreativität und der nachbarschaftliche Einsatz machen den besonderen Charne dieses einzigartigen Straßenfestes aus.</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Lindenthaler Herbstfest",
+    "start": "2026-10-09T00:00:00+02:00",
+    "end": "2026-10-11T23:59:59+02:00",
+    "location": "",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/lindenthaler-herbstfest/",
+    "description": "<p>Mit dem Herbstfest wird ab dem 9. Oktober die Lindenthaler Kunstaktion Street Gallery eingeläutet. Drei Tage lange verwandelt sich der Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Speisen, leckeren Weinen sowie Cocktails, Kölsch und Softdrinks. Dazu gibt es Musik, spannende Aktionen, sowie Hüpfburgen und ein Kinderkarussell für die Pänz. Am Sonntag ... <a title=\"Lindenthaler Herbstfest\" class=\"read-more\" href=\"https://www.koeln.de/event/lindenthaler-herbstfest/\" aria-label=\"Mehr Informationen über Lindenthaler Herbstfest\">mehr</a></p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
   }
 ]

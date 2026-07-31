@@ -3,21 +3,198 @@ VERSION:2.0
 PRODID:-//Koeln Events Filtered Calendar//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Köln – Veranstaltungen
+X-WR-CALNAME:Köln – Straßenfeste\, Bier- & Weinfeste
 X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:31a43ad0ac73967a57e8390dfa1cf3c2@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260731T220000Z
+DTEND:20260802T215959Z
+SUMMARY:Deutz feiert!
+LOCATION:
+DESCRIPTION:<p>Auf Kölns Schäl Sick steigt am 1. und 2. August 2026 in 
+ Deutz (an der Deutzer Freiheit) ein großes Stadtteil- und Familienfest.
+  </p>\\n\nQuelle: koeln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/deutz-feiert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ada979a432ac5cd305b0b1ff6ba8b137@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260801T060000Z
+DTEND:20260801T140000Z
+SUMMARY:Gebrauchtradmarkt Agnesviertel
+LOCATION:Agneskirchplatz\, Vorplatz Agneskirche/Neusser Platz 50670 Köln
+DESCRIPTION:Quelle: koeln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/gebrauchtradmarkt-agnesviertel/2026-08-01/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:1a033ce8143fcc4e0c71cbbe12ad2a94@koeln-events
-DTSTAMP:20260731T103053Z
+DTSTAMP:20260731T103305Z
 DTSTART:20260801T130000Z
-DTEND:20260801T220000Z
+DTEND:20260801T213000Z
 SUMMARY:Kölner Lichter 2026
-LOCATION:Rheinufer Köln
-DESCRIPTION:Manuell gepflegter Reserveeintrag. Vor Besuch Originalquelle 
- prüfen.\nQuelle: Manuell
-CATEGORIES:Großveranstaltung
-URL:https://www.koelner-lichter.de/
+LOCATION:
+DESCRIPTION:<p>Das musiksynchrone Feuerwerkspektakel findet am 1. August 
+ 2026 auf dem Rhein statt\, ein Ereignis für Hunderttausende Besucher.</
+ p>\\n\nQuelle: koeln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/koelner-lichter-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:db359453c47f9d5c3f6f5e92d3c62a05@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260801T180000Z
+DTEND:20260801T180000Z
+SUMMARY:Cro-Mags & Support
+LOCATION:Gebäude 9\, Deutz-Mülheimer Strasse 117 (ehemals 127) 51063 K
+ öln
+DESCRIPTION:<p>(z.Z. keine weiteren Angaben)</p>\\n\nQuelle: koeln.de –
+  Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/cro-mags-conservative-military-image/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:704cffc559ffa01875129bc051526daf@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260802T180000Z
+DTEND:20260802T180000Z
+SUMMARY:Deafheaven
+LOCATION:Die Kantine\, Neusser Landstr. 2 50735 Köln
+DESCRIPTION:<p>(z.Z. keine weiteren Angaben)</p>\\n\nQuelle: koeln.de –
+  Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/deafheaven/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a56e41a7e5651eb4b3c20867fe9d71e7@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260802T180000Z
+DTEND:20260802T180000Z
+SUMMARY:Arch Enemy – Back to the Root of all Evil Tour 2026
+LOCATION:Club Volta\, Schanzenstr. 6 - 20\, Gebäude 2.10 51063 Köln
+DESCRIPTION:<p>Das schwedische Metal-Kraftpaket Arch Enemy schlägt ein n
+ eues Kapitel auf und präsentiert mit „Blood Dynasty“ den ersten neu
+ en Song seit dem letzten Albumzyklus.</p>\\n\nQuelle: koeln.de – Stra
+ ßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/arch-enemy-back-to-the-root-of-all-evil-to
+ ur-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d0ae20c725c794417e28834bd81e3bc0@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260804T170000Z
+DTEND:20260804T170000Z
+SUMMARY:Rick Astley – Summer Shows 2026
+LOCATION:Open Air am Tanzbrunnen Köln\, Rheinparkweg 1 50679 Köln
+DESCRIPTION:<p>Mit Hits wie „Never Gonna Give You Up“ oder „Togethe
+ r Forever“ schrieb Rick Astley Musikgeschichte. Nun ist er auf Tour - 
+ auch in Köln. </p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/rick-astley-summer-shows-2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a57b1715a05fda6cbe355a3f56ddd6c@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260804T220000Z
+DTEND:20260809T215959Z
+SUMMARY:Weinfest am Rhein
+LOCATION:Promenade im Rheinauhafen\, Laura-Oelbermann-Promenade 50668 Kö
+ ln
+DESCRIPTION:<p>Das Weinfest am Rhein nimmt Weinfreunde mit auf eine Entde
+ ckungsreise durch eine Auswahl deutscher und europäischer Weinanbaugebi
+ ete und Weingüter.</p>\\n\nQuelle: koeln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/weinfest-am-rhein/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f958f3ef5071d70bf3f1ac527a6115d2@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260813T220000Z
+DTEND:20260816T215959Z
+SUMMARY:Trauben- & Hopfenfest an der Rheinpromenade
+LOCATION:
+DESCRIPTION:<p>Bei einem traumhaften Blick auf den Rhein könnt ihr entla
+ ng der Rheinpromenade zwischen Hohenzollernbrücke und Bastei das sommer
+ liche Wetter genießen und euch gleichzeitig mit kulinarischen Spezialit
+ äten verwöhnen lassen.</p>\\n\nQuelle: koeln.de – Straßen- und Stad
+ tfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/trauben-hopfenfest-an-der-rheinpromenade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98ae55608acb115e0402eb6d91d2f7cc@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260828T140000Z
+DTEND:20260830T140000Z
+SUMMARY:Das Rot-Weiße Straßenfest – Porz feiert!
+LOCATION:Siehe Beschreibung
+DESCRIPTION:<p>Vom 28. bis 30. August 2026 wird der Parkplatz an der Kirc
+ he in Wahn zum Treffpunkt für das ganze Veedel – mit Live-Musik von K
+ aschämm und MAM (BAP-Tribute)\, Tanzcorps und toller Geselligkeit.</p>\
+ \n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/das-rot-weisse-strassenfest-porz-feiert/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ab9f41b31da3c74c143a9a0c000d0d7@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20260912T110000Z
+DTEND:20260912T190000Z
+SUMMARY:Herthastraßenfest
+LOCATION:
+DESCRIPTION:<p>Bei dem Straßenfest in der Herthastraße in Zollstock lau
+ tet das Motto in jedem Jahr „Von Nachbarn für Nachbarn“. Die Kreati
+ vität und der nachbarschaftliche Einsatz machen den besonderen Charne d
+ ieses einzigartigen Straßenfestes aus.</p>\\n\nQuelle: koeln.de – Str
+ aßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/herthastrassenfest/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f2652e16beb55942ed8225f005451fb5@koeln-events
+DTSTAMP:20260731T103305Z
+DTSTART:20261008T220000Z
+DTEND:20261011T215959Z
+SUMMARY:Lindenthaler Herbstfest
+LOCATION:
+DESCRIPTION:<p>Mit dem Herbstfest wird ab dem 9. Oktober die Lindenthaler
+  Kunstaktion Street Gallery eingeläutet. Drei Tage lange verwandelt sic
+ h der Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Sp
+ eisen\, leckeren Weinen sowie Cocktails\, Kölsch und Softdrinks. Dazu g
+ ibt es Musik\, spannende Aktionen\, sowie Hüpfburgen und ein Kinderkaru
+ ssell für die Pänz. Am Sonntag ... <a title="Lindenthaler Herbstfest" 
+ class="read-more" href="https://www.koeln.de/event/lindenthaler-herbstfe
+ st/" aria-label="Mehr Informationen über Lindenthaler Herbstfest">mehr<
+ /a></p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/lindenthaler-herbstfest/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
