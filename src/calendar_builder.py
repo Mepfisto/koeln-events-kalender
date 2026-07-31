@@ -208,8 +208,9 @@ def normalized_search_text(event: Event) -> str:
 def matches_filters(event: Event, filters: dict[str, Any]) -> bool:
     text = normalized_search_text(event)
     url = event.url.casefold()
+    source = event.source.casefold()
+    category = event.category.casefold()
 
-    # Explicit URL allowlist wins, e.g. Kölner Lichter.
     if any(token.casefold() in url for token in filters.get("always_include_urls", [])):
         return True
 
@@ -219,7 +220,15 @@ def matches_filters(event: Event, filters: dict[str, Any]) -> bool:
     has_include = any(word in text for word in include)
     has_exclude = any(word in text for word in exclude)
 
-    # Positive match is mandatory. Exclusions prevent false positives.
+    # Die spezielle Straßenfest-Seite ist bereits thematisch passend.
+    trusted_street_source = (
+        "straßen- und stadtfeste" in source
+        or "straßenfest & veedel" in category
+    )
+
+    if trusted_street_source and not has_exclude:
+        return True
+
     return has_include and not has_exclude
 
 def within_window(event: Event, past_days: int, future_days: int) -> bool:
@@ -352,7 +361,11 @@ def main() -> int:
     LOG.info("Filter: %d von %d Terminen übernommen", len(events), len(within_date))
 
     if not events:
-        LOG.error("Der Filter hat keine Termine geliefert; bestehende Kalenderdatei wird nicht überschrieben.")
+        LOG.warning("Der Filter hat keine Termine geliefert. Manuelle Termine werden als Reserve verwendet.")
+        events = deduplicate(load_manual_events())
+
+    if not events:
+        LOG.error("Es sind weder automatische noch manuelle Termine vorhanden.")
         return 2
 
     docs = ROOT / "docs"
