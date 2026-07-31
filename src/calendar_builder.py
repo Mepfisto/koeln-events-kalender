@@ -20,7 +20,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 LOG = logging.getLogger("koeln-calendar")
-USER_AGENT = "KoelnEventsCalendar/1.0 (+public GitHub project; respectful daily fetch)"
+USER_AGENT = "KoelnEventsCalendar/1.1 (+public GitHub project; respectful daily fetch)"
 SESSION = requests.Session()
 SESSION.headers.update({
     "User-Agent": USER_AGENT,
@@ -143,8 +143,7 @@ def normalize_datetime(value: Any) -> str:
 
 def inferred_end(start: str) -> str:
     if "T" in start:
-        dt = dateparser.isoparse(start) + timedelta(hours=2)
-        return dt.isoformat()
+        return (dateparser.isoparse(start) + timedelta(hours=2)).isoformat()
     return (date.fromisoformat(start) + timedelta(days=1)).isoformat()
 
 def discover_links(page_html: str, base_url: str, patterns: list[str], maximum: int) -> list[str]:
@@ -193,7 +192,35 @@ def scrape_source(config: dict[str, Any]) -> list[Event]:
 
 def load_manual_events() -> list[Event]:
     path = ROOT / "data" / "manual_events.json"
+    if not path.exists():
+        return []
     return [Event(**item) for item in json.loads(path.read_text(encoding="utf-8"))]
+
+def normalized_search_text(event: Event) -> str:
+    return " ".join([
+        event.title,
+        event.description,
+        event.category,
+        event.location,
+        event.url,
+    ]).casefold()
+
+def matches_filters(event: Event, filters: dict[str, Any]) -> bool:
+    text = normalized_search_text(event)
+    url = event.url.casefold()
+
+    # Explicit URL allowlist wins, e.g. Kölner Lichter.
+    if any(token.casefold() in url for token in filters.get("always_include_urls", [])):
+        return True
+
+    include = [word.casefold() for word in filters.get("include_keywords", [])]
+    exclude = [word.casefold() for word in filters.get("exclude_keywords", [])]
+
+    has_include = any(word in text for word in include)
+    has_exclude = any(word in text for word in exclude)
+
+    # Positive match is mandatory. Exclusions prevent false positives.
+    return has_include and not has_exclude
 
 def within_window(event: Event, past_days: int, future_days: int) -> bool:
     try:
@@ -210,7 +237,6 @@ def deduplicate(events: Iterable[Event]) -> list[Event]:
             chosen[event.key] = event
             continue
         current = chosen[event.key]
-        # Keep the richer record.
         score_new = len(event.description) + len(event.location) + bool(event.url) * 100
         score_old = len(current.description) + len(current.location) + bool(current.url) * 100
         if score_new > score_old:
@@ -221,8 +247,7 @@ def ics_escape(value: str) -> str:
     return value.replace("\\", "\\\\").replace("\n", "\\n").replace(",", "\\,").replace(";", "\\;")
 
 def fold(line: str) -> str:
-    encoded = line.encode("utf-8")
-    if len(encoded) <= 73:
+    if len(line.encode("utf-8")) <= 73:
         return line
     pieces: list[str] = []
     current = ""
@@ -249,7 +274,7 @@ def build_ics(events: list[Event], name: str) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//Koeln Events Auto Calendar//DE",
+        "PRODID:-//Koeln Events Filtered Calendar//DE",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{ics_escape(name)}",
@@ -282,10 +307,28 @@ def build_ics(events: list[Event], name: str) -> str:
     lines.append("END:VCALENDAR")
     return "\r\n".join(fold(line) for line in lines) + "\r\n"
 
+def render_index(events: list[Event], status: dict[str, Any]) -> str:
+    items = "\n".join(
+        f"<li><strong>{html.escape(e.title)}</strong> – {html.escape(e.start[:10])}"
+        + (f" – {html.escape(e.location)}" if e.location else "") + "</li>"
+        for e in events[:150]
+    )
+    return f"""<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>Köln – Straßenfeste, Bier- & Weinfeste</title>
+<style>body{{font:16px system-ui;max-width:850px;margin:40px auto;padding:0 18px;line-height:1.5}}
+a.button{{display:inline-block;padding:10px 14px;border:1px solid;border-radius:8px;text-decoration:none}}
+small{{color:#555}}</style></head>
+<body><h1>Köln – Straßenfeste, Bier- & Weinfeste</h1>
+<p><a class="button" href="koeln-events.ics">ICS-Kalender abonnieren/herunterladen</a></p>
+<p>{len(events)} ausgewählte Termine. Zuletzt erzeugt: {html.escape(status["generated_at"])}</p>
+<p><small>Enthält nur passende öffentliche Feste und besondere Stadtveranstaltungen. Termine auf der Originalquelle prüfen.</small></p>
+<ul>{items}</ul></body></html>"""
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     config = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
-    events = load_manual_events()
+    all_events = load_manual_events()
     failures: list[str] = []
 
     for source in config["sources"]:
@@ -294,16 +337,22 @@ def main() -> int:
         try:
             scraped = scrape_source(source)
             LOG.info("%s: %d Event-Datensätze gelesen", source["name"], len(scraped))
-            events.extend(scraped)
+            all_events.extend(scraped)
         except Exception as exc:
             failures.append(f'{source["name"]}: {exc}')
             LOG.error("%s", failures[-1])
 
-    events = [e for e in events if within_window(e, past_days=7, future_days=int(config["look_ahead_days"]))]
+    within_date = [
+        event for event in all_events
+        if within_window(event, past_days=7, future_days=int(config["look_ahead_days"]))
+    ]
+    events = [event for event in within_date if matches_filters(event, config.get("filters", {}))]
     events = deduplicate(events)
 
+    LOG.info("Filter: %d von %d Terminen übernommen", len(events), len(within_date))
+
     if not events:
-        LOG.error("Keine Termine vorhanden; bestehende Kalenderdatei wird nicht überschrieben.")
+        LOG.error("Der Filter hat keine Termine geliefert; bestehende Kalenderdatei wird nicht überschrieben.")
         return 2
 
     docs = ROOT / "docs"
@@ -318,30 +367,15 @@ def main() -> int:
     status = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "event_count": len(events),
+        "events_before_filter": len(within_date),
         "source_failures": failures,
     }
-    (docs / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
-    (docs / "index.html").write_text(render_index(events, status), encoding="utf-8")
-    LOG.info("Fertig: %d eindeutige Termine", len(events))
-    return 0
-
-def render_index(events: list[Event], status: dict[str, Any]) -> str:
-    items = "\n".join(
-        f"<li><strong>{html.escape(e.title)}</strong> – {html.escape(e.start[:10])}"
-        + (f" – {html.escape(e.location)}" if e.location else "") + "</li>"
-        for e in events[:100]
+    (docs / "status.json").write_text(
+        json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    return f"""<!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>Köln – Veranstaltungen</title>
-<style>body{{font:16px system-ui;max-width:850px;margin:40px auto;padding:0 18px;line-height:1.5}}
-a.button{{display:inline-block;padding:10px 14px;border:1px solid;border-radius:8px;text-decoration:none}}
-small{{color:#555}}</style></head>
-<body><h1>Köln – Veranstaltungen</h1>
-<p><a class="button" href="koeln-events.ics">ICS-Kalender abonnieren/herunterladen</a></p>
-<p>{len(events)} Termine. Zuletzt erzeugt: {html.escape(status["generated_at"])}</p>
-<p><small>Automatisch zusammengestellt. Termine stets auf der verlinkten Originalquelle prüfen.</small></p>
-<ul>{items}</ul></body></html>"""
+    (docs / "index.html").write_text(render_index(events, status), encoding="utf-8")
+    LOG.info("Fertig: %d eindeutige, gefilterte Termine", len(events))
+    return 0
 
 if __name__ == "__main__":
     sys.exit(main())
