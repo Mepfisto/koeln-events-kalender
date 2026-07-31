@@ -33,7 +33,11 @@ quellenweise ab. Neue oder geänderte Seitenstrukturen können Anpassungen in
 5. Unter **Actions → Kalender aktualisieren → Run workflow** den ersten Lauf starten.
 6. Danach gegebenenfalls **GitHub Pages veröffentlichen** starten.
 
-Die Kalenderadresse lautet anschließend:
+Die Webseite mit allen aufgeführten Kalenderadressen lautet:
+
+`https://mepfisto.github.io/koeln-events-kalender/`
+
+Die Kalenderadresse zum abonnieren lautet anschließend:
 
 `https://mepfisto.github.io/koeln-events-kalender/koeln-events.ics`
 
