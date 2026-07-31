@@ -35,7 +35,7 @@ quellenweise ab. Neue oder geänderte Seitenstrukturen können Anpassungen in
 
 Die Kalenderadresse lautet anschließend:
 
-`https://DEIN-NAME.github.io/koeln-events-kalender/koeln-events.ics`
+`https://mepfisto.github.io/koeln-events-kalender/koeln-events.ics`
 
 ## Quellen ändern
 
