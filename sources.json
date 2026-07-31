@@ -1,0 +1,48 @@
+{
+  "timezone": "Europe/Berlin",
+  "calendar_name": "Köln – Veranstaltungen",
+  "look_ahead_days": 370,
+  "sources": [
+    {
+      "name": "koeln.de – Straßen- und Stadtfeste",
+      "url": "https://www.koeln.de/veranstaltungen/strassenfeste-stadtfeste-koeln/",
+      "mode": "crawl_event_links",
+      "link_patterns": [
+        "/event/",
+        "/veranstaltungen/"
+      ],
+      "category": "Straßenfest & Veedel",
+      "max_detail_pages": 80,
+      "enabled": true
+    },
+    {
+      "name": "koeln.de – Märkte und Feste",
+      "url": "https://www.koeln.de/events/kategorie/maerkte-und-feste/",
+      "mode": "crawl_event_links",
+      "link_patterns": [
+        "/event/"
+      ],
+      "category": "Markt & Fest",
+      "max_detail_pages": 80,
+      "enabled": true
+    },
+    {
+      "name": "KölnTourismus – Veranstaltungskalender",
+      "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/veranstaltungskalender",
+      "mode": "crawl_event_links",
+      "link_patterns": [
+        "/veranstaltungen/detail/"
+      ],
+      "category": "KölnTourismus",
+      "max_detail_pages": 100,
+      "enabled": true
+    },
+    {
+      "name": "Stadt Köln – verkaufsoffene Sonntage",
+      "url": "https://www.stadt-koeln.de/wirtschaft/gewerbe/verkaufsoffene-sonntage",
+      "mode": "jsonld_only",
+      "category": "Verkaufsoffener Sonntag",
+      "enabled": true
+    }
+  ]
+}
