@@ -1,23 +1,53 @@
 [
   {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-07-31T10:30:00+02:00",
+    "end": "2026-07-31T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
     "title": "Deutz feiert!",
     "start": "2026-08-01T00:00:00+02:00",
     "end": "2026-08-02T23:59:59+02:00",
     "location": "",
-    "category": "Markt & Fest",
+    "category": "Straßenfest & Veedel",
     "url": "https://www.koeln.de/event/deutz-feiert/",
     "description": "<p>Auf Kölns Schäl Sick steigt am 1. und 2. August 2026 in Deutz (an der Deutzer Freiheit) ein großes Stadtteil- und Familienfest. </p>\\n",
-    "source": "koeln.de – Märkte und Feste"
+    "source": "koeln.de – Straßen- und Stadtfeste"
   },
   {
     "title": "Gebrauchtradmarkt Agnesviertel",
     "start": "2026-08-01T08:00:00+02:00",
     "end": "2026-08-01T16:00:00+02:00",
     "location": "Agneskirchplatz, Vorplatz Agneskirche/Neusser Platz 50670 Köln",
-    "category": "Markt & Fest",
+    "category": "Straßenfest & Veedel",
     "url": "https://www.koeln.de/event/gebrauchtradmarkt-agnesviertel/2026-08-01/",
     "description": "",
-    "source": "koeln.de – Märkte und Feste"
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Hofflohmärkte in Ostheim",
+    "start": "2026-08-01T10:00:00+02:00",
+    "end": "2026-08-01T16:00:00+02:00",
+    "location": "",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/hofflohmaerkte-in-ostheim/",
+    "description": "<p>Bei den Hofflohmärkten verwandeln sich Kölns Stadtteile in riesige Trödelmärkte. Hinterhöfe, Einfahrten oder Garagen, die sonst mit Schildern wie „Privatgrundstück“ oder „Ausfahrt freihalten“ gekennzeichnet sind, laden jetzt zum Stöbern ein. .gb-text-d7da0914{align-items:center;column-gap:0.5em;display:inline-flex}.gb-text-d7da0914 .gb-shape svg{width:1em;height:1em;fill:currentColor;color:var(--accent)} Alle Hofflohmärkte in Köln</p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-01T10:30:00+02:00",
+    "end": "2026-08-01T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
   },
   {
     "title": "Kölner Lichter 2026",
@@ -40,6 +70,16 @@
     "source": "koeln.de – Straßen- und Stadtfeste"
   },
   {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-02T10:30:00+02:00",
+    "end": "2026-08-02T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
     "title": "Deafheaven",
     "start": "2026-08-02T20:00:00+02:00",
     "end": "2026-08-02T20:00:00+02:00",
@@ -60,6 +100,26 @@
     "source": "koeln.de – Straßen- und Stadtfeste"
   },
   {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-03T10:30:00+02:00",
+    "end": "2026-08-03T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-04T10:30:00+02:00",
+    "end": "2026-08-04T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
     "title": "Rick Astley – Summer Shows 2026",
     "start": "2026-08-04T19:00:00+02:00",
     "end": "2026-08-04T19:00:00+02:00",
@@ -67,6 +127,16 @@
     "category": "Straßenfest & Veedel",
     "url": "https://www.koeln.de/event/rick-astley-summer-shows-2026/",
     "description": "<p>Mit Hits wie „Never Gonna Give You Up“ oder „Together Forever“ schrieb Rick Astley Musikgeschichte. Nun ist er auf Tour - auch in Köln. </p>\\n",
+    "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Corrosion Of Conformity – Tour 2026",
+    "start": "2026-08-04T20:00:00+02:00",
+    "end": "2026-08-04T20:00:00+02:00",
+    "location": "Gebäude 9, Deutz-Mülheimer Strasse 117 (ehemals 127) 51063 Köln",
+    "category": "Straßenfest & Veedel",
+    "url": "https://www.koeln.de/event/corrosion-of-conformity-tour-2026/",
+    "description": "<p>(z.Z. keine weiteren Angaben)</p>\\n",
     "source": "koeln.de – Straßen- und Stadtfeste"
   },
   {
@@ -80,6 +150,106 @@
     "source": "koeln.de – Märkte und Feste"
   },
   {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-05T10:30:00+02:00",
+    "end": "2026-08-05T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-06T10:30:00+02:00",
+    "end": "2026-08-06T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "Bierbörse 2026",
+    "start": "2026-08-07T00:00:00+02:00",
+    "end": "2026-08-09T23:59:59+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/bierboerse/",
+    "description": "<p>Vom 7. bis zum 9. August 2026 findet die Kölner Bierbörse auf der Rheinpromenade in der Nähe der Kölner Altstadt statt. Drei Tage lang erwartet die Besucher ein vielfältiges Angebot an Bierspezialitäten, die darauf warten, entdeckt zu werden.</p>\\n",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-07T10:30:00+02:00",
+    "end": "2026-08-07T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-08T10:30:00+02:00",
+    "end": "2026-08-08T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-09T10:30:00+02:00",
+    "end": "2026-08-09T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-10T10:30:00+02:00",
+    "end": "2026-08-10T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-11T10:30:00+02:00",
+    "end": "2026-08-11T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-12T10:30:00+02:00",
+    "end": "2026-08-12T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-13T10:30:00+02:00",
+    "end": "2026-08-13T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
     "title": "Trauben- & Hopfenfest an der Rheinpromenade",
     "start": "2026-08-14T00:00:00+02:00",
     "end": "2026-08-16T23:59:59+02:00",
@@ -88,6 +258,96 @@
     "url": "https://www.koeln.de/event/trauben-hopfenfest-an-der-rheinpromenade/",
     "description": "<p>Bei einem traumhaften Blick auf den Rhein könnt ihr entlang der Rheinpromenade zwischen Hohenzollernbrücke und Bastei das sommerliche Wetter genießen und euch gleichzeitig mit kulinarischen Spezialitäten verwöhnen lassen.</p>\\n",
     "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-14T10:30:00+02:00",
+    "end": "2026-08-14T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-15T10:30:00+02:00",
+    "end": "2026-08-15T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-16T10:30:00+02:00",
+    "end": "2026-08-16T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-17T10:30:00+02:00",
+    "end": "2026-08-17T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-18T10:30:00+02:00",
+    "end": "2026-08-18T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-19T10:30:00+02:00",
+    "end": "2026-08-19T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-20T10:30:00+02:00",
+    "end": "2026-08-20T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-21T10:30:00+02:00",
+    "end": "2026-08-21T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
+  },
+  {
+    "title": "\"Faszination Köln\" - die Highlights",
+    "start": "2026-08-22T10:30:00+02:00",
+    "end": "2026-08-22T13:30:00+02:00",
+    "location": "Colonia Aktiv, Gereonswall 2-4 50668 Köln",
+    "category": "KölnTourismus",
+    "url": "https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/detail/faszination-koeln-die-highlights",
+    "description": "Stadtgeschichte trifft Lebensgefühl: Auf der „Faszination Köln“-Radtour verweben sich historische Stationen mit urbaner Gegenwartskultur zu einem facettenreichen Porträt der Rheinmetropole. In einer überschaubaren Gruppe von maximal 15 Personen führt die rund dreistündige Tour über etwa 15 Kilometer auf sorgsam ausgewählten Wegen quer durch ausgewählte Stadtviertel und Epochen. Angefangen am authentischen Eigelstein, führt der Weg über das atmosphärische Agnesviertel und durch den nördlichen Grüngürtel bis hinüber auf die „Schäl Sick“, Kölns rechtsrheinische Seite. Hier erschließen sich neben bekannten Orten auch feinere, lokale Besonderheiten und Einblicke in subkulturelle Räume. Prägende historische Orte wie die Hohenzollernbrücke mit ihren symbolträchtigen Liebesschlössern und der imposante Kölner Dom kommen ebenso in den Blick wie der architektonisch reizvolle Rheinauhafen mit seiner",
+    "source": "KölnTourismus – Veranstaltungskalender"
   },
   {
     "title": "Das Rot-Weiße Straßenfest – Porz feiert!",
