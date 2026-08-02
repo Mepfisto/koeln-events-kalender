@@ -2,12 +2,76 @@
   "timezone": "Europe/Berlin",
   "calendar_name": "Köln – Straßenfeste, Bier- & Weinfeste",
   "look_ahead_days": 370,
-  "filters": {
-    "always_include_sources": [
+  "rules": {
+    "trusted_sources": [
       "koeln.de – Straßen- und Stadtfeste"
     ],
-
-    "include_keywords": [
+    "blocked_titles": [
+        "Platzhalter"
+    ],
+    "always_include_urls": [
+      "koelner-lichter.de"
+    ],
+    "always_include_titles": [
+      "Kölner Lichter",
+      "Koelner Lichter",
+      "Dä längste Desch",
+      "Der längste Tisch",
+      "Tag des guten Lebens",
+      "Carréefest",
+      "Carreefest",
+      "Neuehrenfest",
+      "Deutz feiert",
+      "Porz feiert",
+      "Dellbrücker Festmeile",
+      "Ehrenfelder Straßenfest",
+      "Straßenfest im Agnesviertel"
+    ],
+    "hard_exclude_keywords": [
+      "flohmarkt",
+      "hofflohmarkt",
+      "trödelmarkt",
+      "troedelmarkt",
+      "gebrauchtmarkt",
+      "kindersachenmarkt",
+      "konzert",
+      "live concert",
+      "live-konzert",
+      "museum",
+      "ausstellung",
+      "vernissage",
+      "finissage",
+      "theater",
+      "oper",
+      "musical",
+      "lesung",
+      "führung",
+      "fuehrung",
+      "stadtführung",
+      "stadtfuehrung",
+      "rundgang",
+      "radtour",
+      "fahrradtour",
+      "workshop",
+      "seminar",
+      "messe",
+      "kongress",
+      "gamescom",
+      "marathon",
+      "triathlon",
+      "radrennen",
+      "fußball",
+      "fussball",
+      "basketball",
+      "handball",
+      "eishockey",
+      "galopprennen",
+      "clubnacht",
+      "dj set",
+      "verkaufsoffener sonntag",
+      "weihnachtsmarkt"
+    ],
+    "festival_title_keywords": [
       "straßenfest",
       "strassenfest",
       "stadtfest",
@@ -36,64 +100,6 @@
       "hopfenfest",
       "lichterfest",
       "lichterspektakel"
-    ],
-
-    "always_include_titles": [
-      "kölner lichter",
-      "koelner lichter",
-      "dä längste desch",
-      "der längste tisch",
-      "tag des guten lebens",
-      "carréefest",
-      "carreefest",
-      "neuehrenfest",
-      "deutz feiert",
-      "porz feiert",
-      "dellbrücker festmeile",
-      "ehrenfelder straßenfest",
-      "straßenfest im agnesviertel"
-    ],
-
-    "exclude_keywords": [
-      "konzert",
-      "theater",
-      "oper",
-      "musical",
-      "lesung",
-      "führung",
-      "fuehrung",
-      "stadtführung",
-      "stadtfuehrung",
-      "radtour",
-      "fahrradtour",
-      "rundgang",
-      "workshop",
-      "seminar",
-      "messe",
-      "kongress",
-      "gamescom",
-      "ausstellung",
-      "marathon",
-      "triathlon",
-      "radrennen",
-      "fußball",
-      "fussball",
-      "basketball",
-      "handball",
-      "eishockey",
-      "galopprennen",
-      "clubnacht",
-      "dj set",
-      "verkaufsoffener sonntag",
-      "weihnachtsmarkt",
-      "flohmarkt",
-      "trödelmarkt",
-      "troedelmarkt",
-      "gebrauchtmarkt"
-    ],
-
-    "always_include_urls": [
-      "koelner-lichter.de"
     ]
   },
   "sources": [
@@ -102,8 +108,7 @@
       "url": "https://www.koeln.de/veranstaltungen/strassenfeste-stadtfeste-koeln/",
       "mode": "crawl_event_links",
       "link_patterns": [
-        "/event/",
-        "/veranstaltungen/"
+        "/event/"
       ],
       "category": "Straßenfest & Veedel",
       "max_detail_pages": 80,

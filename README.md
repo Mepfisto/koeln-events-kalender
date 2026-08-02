@@ -80,7 +80,7 @@ https://mepfisto.github.io/koeln-events-kalender/koeln-events.ics
 | System                          | Unterstützt | Empfehlung                        |
 | ------------------------------- | ----------- | --------------------------------- |
 | 🍎 Apple Kalender (macOS)       | ✅          | Direkt abonnieren                 |
-| 📱 Apple Kalender (iPhone/iPad) | ✅          | Direkt abonnieren                 |
+| 📱 iPhone/iPad                  | ✅          | Direkt abonnieren                 |
 | 🌐 Google Kalender              | ✅          | Über die Weboberfläche hinzufügen |
 | 🤖 Android                      | ✅          | ICSx⁵ oder Google Kalender        |
 | 💼 Microsoft Outlook            | ✅          | Internetkalender                  |
