@@ -14,3 +14,19 @@ build/
 
 # Thumbnails
 ._*
+
+# virtuelle Umgebung
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
