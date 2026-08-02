@@ -2,30 +2,58 @@
 [![Website](https://img.shields.io/badge/Website-online-brightgreen)](https://mepfisto.github.io/koeln-events-kalender/)
 [![last commit](https://img.shields.io/github/last-commit/Mepfisto/koeln-events-kalender)](https://github.com/Mepfisto/koeln-events-kalender/commits/main/)
 
-Ein kostenloser Kalender mit ausgewählten Veranstaltungen in Köln.
+## Inhalt
 
+- Projektbeschreibung
+- Enthaltene Veranstaltungen
+- Nicht enthalten
+- Website
+- Kalender abonnieren
+- Aktualisierung
+- Mitmachen
+- Lizenz
+- Geplant
+
+---
+
+## 🚀 Projektbeschreibung
+
+Ein kostenloser Kalender mit ausgewählten Veranstaltungen in Köln. 
 Das Projekt sammelt öffentliche Veranstaltungsdaten aus mehreren Kölner Quellen,
 entfernt Dubletten und veröffentlicht täglich einen abonnierbaren ICS-Kalender
 über GitHub Pages.
 
-Enthalten sind unter anderem:
+---
 
-- 🍺 Bierfeste
-- 🍷 Weinfeste
+## 🎉 Enthaltene Veranstaltungen
+
+Der Kalender enthält ausschließlich größere öffentliche Veranstaltungen mit Festcharakter.
+
+Dazu gehören unter anderem:
+
 - 🎉 Straßenfeste
-- 🎆 Kölner Lichter
-- 🎄 ausgewählte saisonale Veranstaltungen
+- 🏘️ Stadtteil- und Veedelsfeste
+- 🍺 Bierfeste und Bierbörsen
+- 🍷 Weinfeste, Weinwochen und Winzerfeste
+- 🌞 Sommer-, Herbst- und Hafenfeste
+- 🎆 Kölner Lichter sowie vergleichbare Feuerwerks- und Lichterveranstaltungen
+- 🎪 größere öffentliche Stadtfeste
 
 ---
 
-## Inhalt
+## 🚫 Nicht enthalten
 
-- Website
-- Kalender abonnieren
-- Unterstützte Kalender
-- Mitmachen
-- Lizenz
-- Geplant
+Bewusst herausgefiltert werden beispielsweise:
+
+- 🎵 Konzerte
+- 🎭 Theater und Musicals
+- 🏃 Sportveranstaltungen
+- 🏢 Messen und Kongresse
+- 🎓 Führungen, Vorträge und Workshops
+- 🎧 normale Club- und Partyveranstaltungen
+- 🛍️ verkaufsoffene Sonntage
+- 🎄 Weihnachtsmärkte
+- 🛒 Flohmärkte
 
 ---
 
@@ -47,24 +75,109 @@ https://mepfisto.github.io/koeln-events-kalender/koeln-events.ics
 
 ---
 
-## Unterstützte Kalender
+### Unterstützte Kalender
 
-- ✅ Apple Kalender
-- ✅ Google Kalender
-- ✅ Outlook
-- ✅ Thunderbird
-- ✅ iPhone
-- ✅ Android
-
----
-
-## Aktualisierung
-
-Der Kalender wird regelmäßig aktualisiert. Nach dem Abonnieren erscheinen neue Veranstaltungen automatisch, sobald dein Kalender synchronisiert.
+| System                          | Unterstützt | Empfehlung                        |
+| ------------------------------- | ----------- | --------------------------------- |
+| 🍎 Apple Kalender (macOS)       | ✅          | Direkt abonnieren                 |
+| 📱 Apple Kalender (iPhone/iPad) | ✅          | Direkt abonnieren                 |
+| 🌐 Google Kalender              | ✅          | Über die Weboberfläche hinzufügen |
+| 🤖 Android                      | ✅          | ICSx⁵ oder Google Kalender        |
+| 💼 Microsoft Outlook            | ✅          | Internetkalender                  |
+| 🐦 Thunderbird                  | ✅          | iCalendar (ICS)                   |
+| 🏠 Home Assistant               | ✅          | ICS-Integration                   |
 
 ---
 
-## Mitmachen
+### 🍎 Apple Kalender (macOS)
+
+1. Kalender öffnen
+2. Ablage
+3. Neues Kalenderabonnement…
+4. Die ICS-Adresse einfügen
+5. Abonnieren
+6. Aktualisierung auf **Täglich** oder **Stündlich** stellen.
+
+---
+
+### 📱 iPhone / iPad
+
+1. Einstellungen
+2. Apps
+3. Kalender
+4. Kalenderaccounts
+5. Account hinzufügen
+6. Andere
+7. Abonnierten Kalender hinzufügen
+8. Die ICS-Adresse einfügen
+9. Weiter
+10. Sichern
+
+---
+
+### 🌐 Google Kalender
+
+1. https://calendar.google.com öffnen
+2. Links neben **Weitere Kalender** auf **+**
+3. Per URL
+4. Die ICS-Adresse einfügen
+5. Kalender hinzufügen
+
+Hinweis:
+Google synchronisiert abonnierte Kalender nicht sofort. Aktualisierungen können mehrere Stunden dauern.
+
+---
+
+### 💼 Microsoft Outlook (Web)
+
+1. Outlook Kalender öffnen
+2. Kalender hinzufügen
+3. Aus dem Internet abonnieren
+4. Die ICS-Adresse einfügen
+5. Speichern
+
+---
+
+### 💼 Microsoft Outlook (Windows)
+
+1. Datei
+2. Kontoeinstellungen
+3. Internetkalender
+4. Neu
+5. Die ICS-Adresse einfügen
+6. OK
+
+---
+
+### 🐦 Thunderbird
+
+1. Datei
+2. Neu
+3. Kalender
+4. Im Netzwerk
+5. Format **iCalendar (ICS)**
+6. Die ICS-Adresse einfügen
+7. Fertig
+
+---
+
+### 🏠 Home Assistant
+
+```yaml
+calendar:
+  - platform: ics
+    url: https://mepfisto.github.io/koeln-events-kalender/koeln-events.ics
+```
+
+---
+
+## ⚙️ Aktualisierung
+
+Der Kalender wird über GitHub Actions aktualisiert. Die Aktualisierung erfolgt immer täglich um 5:23 Winterzeit oder 6:23 zur Sommerzeit. Nach dem Abonnieren erscheinen neue Veranstaltungen automatisch, sobald dein Kalender synchronisiert.
+
+---
+
+## 🤝 Mitmachen
 
 Fehlt eine Veranstaltung oder ist ein Termin falsch?
 
@@ -72,13 +185,13 @@ Erstelle gerne ein **Issue** oder sende einen **Pull Request**.
 
 ---
 
-## Lizenz
+## 📜 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
 
 ---
 
-## Geplant
+## 🚧 Geplant
 
 - Suchfunktion
 - Kategorienfilter
