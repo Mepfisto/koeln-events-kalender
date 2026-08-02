@@ -7,6 +7,7 @@ import logging
 import re
 import sys
 import time
+import os
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -609,15 +610,20 @@ def main() -> int:
         )
         return 2
 
-    docs = ROOT / "docs"
-    docs.mkdir(exist_ok=True)
+    output_dir = Path(
+        os.environ.get(
+            "OUTPUT_DIR",
+            str(ROOT / "docs"),
+        )
+    )
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    (docs / "koeln-events.ics").write_text(
+    (output_dir / "koeln-events.ics").write_text(
         build_ics(events, config["calendar_name"]),
         encoding="utf-8",
         newline="",
     )
-    (docs / "events.json").write_text(
+    (output_dir / "events.json").write_text(
         json.dumps(
             [asdict(event) for event in events],
             ensure_ascii=False,
@@ -625,7 +631,7 @@ def main() -> int:
         ),
         encoding="utf-8",
     )
-    (docs / "filter-report.json").write_text(
+    (output_dir / "filter-report.json").write_text(
         json.dumps(
             filter_report,
             ensure_ascii=False,
@@ -643,7 +649,7 @@ def main() -> int:
         "source_failures": failures,
     }
 
-    (docs / "status.json").write_text(
+    (output_dir / "status.json").write_text(
         json.dumps(
             status,
             ensure_ascii=False,
@@ -651,7 +657,7 @@ def main() -> int:
         ),
         encoding="utf-8",
     )
-    (docs / "index.html").write_text(
+    (output_dir / "index.html").write_text(
         render_index(events, status),
         encoding="utf-8",
     )

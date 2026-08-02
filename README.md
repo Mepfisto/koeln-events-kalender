@@ -200,15 +200,29 @@ git clone https://github.com/Mepfisto/koeln-events-kalender.git
 cd koeln-events-kalender
 ```
 
-### Virtuelle Umgebung
+### Virtuelle Umgebung erzeugen
 
 1. Umgebung Erstellen:	            python3 -m venv .venv 
 2. Aktivieren (Mac/Linux):          source .venv/bin/activate
 2. Aktivieren (Windows):            .venv\Scripts\activate
 3. Abhängigkeiten installieren:     pip install -r requirements.txt
-4. Kalender erzeugen:				python -m src.calendar_builder
-5. Umgebung verlassen:			    deactive
-6. Umgebung löschen (optional):     rm -rf .venv
+4. Umgebung verlassen:              deactive
+5. Umgebung löschen (optional):     rm -rf .venv
+
+### Test in Virtueller Umgebung
+
+1. Aktivieren (Mac/Linux):          source .venv/bin/activate
+1. Aktivieren (Windows):            .venv\Scripts\activate
+2. Änderungen testen:               python -m pytest -q
+3. Kalender erzeugen:				OUTPUT_DIR=build python -m src.calendar_builder
+4. Umgebung verlassen:			    deactive
+
+### Lokale Webseite anzeigen
+
+1. Ordner öffnen: 					/koeln-events-kalender/build
+2. Webserver lokal hosten:			python3 -m http.server 8000
+3. Lokale Webseite öffnen:			http://localhost:8000/
+4. Webserver schließen: 			Ctrl+C
 
 ## 🚧 Geplant
 
