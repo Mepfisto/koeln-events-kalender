@@ -191,6 +191,25 @@ Dieses Projekt steht unter der MIT-Lizenz.
 
 ---
 
+## Lokale Entwicklung
+
+### Repository klonen
+
+```bash
+git clone https://github.com/Mepfisto/koeln-events-kalender.git
+cd koeln-events-kalender
+```
+
+### Virtuelle Umgebung
+
+1. Umgebung Erstellen:	            python3 -m venv .venv 
+2. Aktivieren (Mac/Linux):          source .venv/bin/activate
+2. Aktivieren (Windows):            .venv\Scripts\activate
+3. Abhängigkeiten installieren:     pip install -r requirements.txt
+4. Kalender erzeugen:				python -m src.calendar_builder
+5. Umgebung verlassen:			    deactive
+6. Umgebung löschen (optional):     rm -rf .venv
+
 ## 🚧 Geplant
 
 - Suchfunktion

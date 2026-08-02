@@ -206,30 +206,65 @@ def normalized_search_text(event: Event) -> str:
     ]).casefold()
 
 def matches_filters(event: Event, filters: dict[str, Any]) -> bool:
-    text = normalized_search_text(event)
+    title = event.title.casefold()
+    description = event.description.casefold()
+    category = event.category.casefold()
     url = event.url.casefold()
     source = event.source.casefold()
-    category = event.category.casefold()
 
-    if any(token.casefold() in url for token in filters.get("always_include_urls", [])):
+    always_include_sources = [
+        item.casefold()
+        for item in filters.get("always_include_sources", [])
+    ]
+
+    always_include_titles = [
+        item.casefold()
+        for item in filters.get("always_include_titles", [])
+    ]
+
+    always_include_urls = [
+        item.casefold()
+        for item in filters.get("always_include_urls", [])
+    ]
+
+    include_keywords = [
+        item.casefold()
+        for item in filters.get("include_keywords", [])
+    ]
+
+    exclude_keywords = [
+        item.casefold()
+        for item in filters.get("exclude_keywords", [])
+    ]
+
+    # Alle Veranstaltungen aus ausdrücklich freigegebenen Quellen
+    # werden ohne weitere Filterung übernommen.
+    if source in always_include_sources:
         return True
 
-    include = [word.casefold() for word in filters.get("include_keywords", [])]
-    exclude = [word.casefold() for word in filters.get("exclude_keywords", [])]
-
-    has_include = any(word in text for word in include)
-    has_exclude = any(word in text for word in exclude)
-
-    # Die spezielle Straßenfest-Seite ist bereits thematisch passend.
-    trusted_street_source = (
-        "straßen- und stadtfeste" in source
-        or "straßenfest & veedel" in category
-    )
-
-    if trusted_street_source and not has_exclude:
+    # Bekannte einzelne Veranstaltungen immer übernehmen.
+    if any(item in title for item in always_include_titles):
         return True
 
-    return has_include and not has_exclude
+    # Bestimmte Veranstaltungswebseiten immer übernehmen.
+    if any(item in url for item in always_include_urls):
+        return True
+
+    # Ausschlussbegriffe werden in Titel, Beschreibung,
+    # Kategorie und URL geprüft.
+    exclude_text = " ".join([
+        title,
+        description,
+        category,
+        url,
+    ])
+
+    if any(item in exclude_text for item in exclude_keywords):
+        return False
+
+    # Bei den übrigen Quellen muss mindestens ein Positivbegriff
+    # im Veranstaltungstitel vorkommen.
+    return any(item in title for item in include_keywords)
 
 def within_window(event: Event, past_days: int, future_days: int) -> bool:
     try:
