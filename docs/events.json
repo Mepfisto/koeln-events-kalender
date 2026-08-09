@@ -1,15 +1,5 @@
 [
   {
-    "title": "Kölner Lichter 2026",
-    "start": "2026-08-01T15:00:00+02:00",
-    "end": "2026-08-02T00:00:00+02:00",
-    "location": "Rheinufer Köln",
-    "category": "Großveranstaltung",
-    "url": "https://www.koelner-lichter.de/",
-    "description": "Manuell gepflegter Reserveeintrag. Vor Besuch Originalquelle prüfen.",
-    "source": "Manuell"
-  },
-  {
     "title": "Weinfest am Rhein",
     "start": "2026-08-05T00:00:00+02:00",
     "end": "2026-08-09T23:59:59+02:00",
@@ -40,16 +30,6 @@
     "source": "koeln.de – Märkte und Feste"
   },
   {
-    "title": "Sommerfest der StattGarde Colonia Ahoj e.V.",
-    "start": "2026-08-08T14:00:00+02:00",
-    "end": "2026-08-08T14:00:00+02:00",
-    "location": "Siehe Beschreibung",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/sommerfest-der-stattgarde-colonia-ahoj-e-v/",
-    "description": "<p>Die Stattgarde Colonia Ahoj lädt zum Sommerfest in den Kölner Rugby Park ein! </p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
     "title": "Trauben- & Hopfenfest an der Rheinpromenade",
     "start": "2026-08-14T00:00:00+02:00",
     "end": "2026-08-16T23:59:59+02:00",
@@ -58,6 +38,16 @@
     "url": "https://www.koeln.de/event/trauben-hopfenfest-an-der-rheinpromenade/",
     "description": "<p>Bei einem traumhaften Blick auf den Rhein könnt ihr entlang der Rheinpromenade zwischen Hohenzollernbrücke und Bastei das sommerliche Wetter genießen und euch gleichzeitig mit kulinarischen Spezialitäten verwöhnen lassen.</p>\\n",
     "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Straßenfest im Agnesviertel",
+    "start": "2026-08-15T00:00:00+02:00",
+    "end": "2026-08-16T23:59:59+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/strassenfest-im-agnesviertel/",
+    "description": "<p>Das Agnesviertel gilt mit seinen prachtvollen Altbauten und der zweitgrößte Kirche in Köln, der Agneskirche, als eines der schönsten Veedel der Stadt. Besonders in Szene gesetzt wird der Stadtteil beim Straßenfest auf der Neusser Straße. Zwischen Ebertplatz und Agneskirche bauen die Geschäfte und Gaststätten am 15. und 16. August 2026 ... <a title=\"Straßenfest im Agnesviertel\" class=\"read-more\" href=\"https://www.koeln.de/event/strassenfest-im-agnesviertel/\" aria-label=\"Mehr Informationen über Straßenfest im Agnesviertel\">mehr</a></p>\\n",
+    "source": "koeln.de – Märkte und Feste"
   },
   {
     "title": "Das Rot-Weiße Straßenfest – Porz feiert!",
