@@ -1,35 +1,5 @@
 [
   {
-    "title": "Weinfest am Rhein",
-    "start": "2026-08-05T00:00:00+02:00",
-    "end": "2026-08-09T23:59:59+02:00",
-    "location": "Promenade im Rheinauhafen, Laura-Oelbermann-Promenade 50668 Köln",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/weinfest-am-rhein/",
-    "description": "<p>Das Weinfest am Rhein nimmt Weinfreunde mit auf eine Entdeckungsreise durch eine Auswahl deutscher und europäischer Weinanbaugebiete und Weingüter.</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
-    "title": "Bierbörse 2026",
-    "start": "2026-08-07T00:00:00+02:00",
-    "end": "2026-08-09T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/bierboerse/",
-    "description": "<p>Die Bierbörse bietet den Besuchern eine vielfältige Auswahl an Bierspezialitäten, die darauf warten, entdeckt zu werden.</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
-    "title": "Straßenfest Ehrenfeld/Venloer Str.",
-    "start": "2026-08-08T00:00:00+02:00",
-    "end": "2026-08-09T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/strassenfest-ehrenfeld-venloer-str/",
-    "description": "<p>Zwei Tage lang verwandelt sich die Venloer Straße in eine Multi-Kulti-Festmeile mit Straßenhändlern, Leckereien und Live-Musik auf mehreren Bühnen.</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
     "title": "Trauben- & Hopfenfest an der Rheinpromenade",
     "start": "2026-08-14T00:00:00+02:00",
     "end": "2026-08-16T23:59:59+02:00",
