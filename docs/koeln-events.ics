@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:98ae55608acb115e0402eb6d91d2f7cc@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20260828T140000Z
 DTEND:20260830T140000Z
 SUMMARY:Das Rot-Weiße Straßenfest – Porz feiert!
@@ -25,7 +25,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:de80e3db3bb36b45208eddbbb71b41a0@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20260902T220000Z
 DTEND:20260906T215959Z
 SUMMARY:Sommerfest am Stadtwald
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:88a128ec501707eb089ec8cfdbf1007b@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20260911T220000Z
 DTEND:20260913T215959Z
 SUMMARY:Block-Party
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2ab9f41b31da3c74c143a9a0c000d0d7@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20260912T110000Z
 DTEND:20260912T190000Z
 SUMMARY:Herthastraßenfest
@@ -84,20 +84,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:98633a9c8e557b697b7f7119a8bf8955@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20260918T220000Z
-DTEND:20260920T215959Z
+DTEND:20260919T215959Z
 SUMMARY:Trimbornstraßenfest
 LOCATION:
 DESCRIPTION:<p>Beim Trimbornstraßenfest wird die Straße\, die sonst nur
   hektischer Durchgang zwischen S-Bahn und Köln Arcaden ist\, zum autofr
  eien Ort der Begegnung. Es gibt Livemusik\, Workshops\, einen Flohmarkt 
  und mehr – alles organisiert von der Nachbarschaft\, 100 % unkommerzie
- ll und selbstgemacht. Das Programm im Überblick Samstag\, 19. September
-  2026 Sonntag\, 20. ... <a title="Trimbornstraßenfest" class="read-more
- " href="https://www.koeln.de/event/trimbornstrassenfest/" aria-label="Me
- hr Informationen über Trimbornstraßenfest">mehr</a></p>\\n\nQuelle: ko
- eln.de – Straßen- und Stadtfeste
+ ll und selbstgemacht. Essen gibt es natürlich auch! Beim Straßenfest s
+ tellen sich außerdem ... <a title="Trimbornstraßenfest" class="read-mo
+ re" href="https://www.koeln.de/event/trimbornstrassenfest/" aria-label="
+ Mehr Informationen über Trimbornstraßenfest">mehr</a></p>\\n\nQuelle: 
+ koeln.de – Straßen- und Stadtfeste
 CATEGORIES:Straßenfest & Veedel
 URL:https://www.koeln.de/event/trimbornstrassenfest/
 STATUS:CONFIRMED
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260818T045630Z
+DTSTAMP:20260819T045634Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
