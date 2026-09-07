@@ -1,35 +1,5 @@
 [
   {
-    "title": "Sommerfest am Stadtwald",
-    "start": "2026-09-03T00:00:00+02:00",
-    "end": "2026-09-06T23:59:59+02:00",
-    "location": "",
-    "category": "Straßenfest & Veedel",
-    "url": "https://www.koeln.de/event/sommerfest-am-stadtwald/",
-    "description": "<p>Das Sommerfest am Stadtwald lädt auf den Hültzplatz in Köln-Braunsfeld zu einem entspannten, charmanten Wochenende ein. Besucher erwartet ein kulinarisches Angebot mit Foodtrucks, erfrischenden Drinks und Weinen, ein abwechslungsreiches Bühnenprogramm sowie ein Kinderkarussell und gemütliche Sitzplätze. Am Sonntag findet von 11 bis 14 Uhr zusätzlich ein Kinderflohmarkt statt, auf dem ... <a title=\"Sommerfest am Stadtwald\" class=\"read-more\" href=\"https://www.koeln.de/event/sommerfest-am-stadtwald/\" aria-label=\"Mehr Informationen über Sommerfest am Stadtwald\">mehr</a></p>\\n",
-    "source": "koeln.de – Straßen- und Stadtfeste"
-  },
-  {
-    "title": "Carréefest Sülz/Klettenberg",
-    "start": "2026-09-05T00:00:00+02:00",
-    "end": "2026-09-06T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/carreefest-suelz-klettenberg/",
-    "description": "<p>Beim Carréefest machen die beiden südwestlichen Stadtteile Sülz und Klettenberg gemeinsame Sache. Dazu gibt es allerlei Programm und einen verkaufsoffenen Sonntag.</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
-    "title": "Straßenfest in der Schulze-Delitzsch-Straße",
-    "start": "2026-09-06T11:00:00+02:00",
-    "end": "2026-09-06T17:00:00+02:00",
-    "location": "",
-    "category": "Straßenfest & Veedel",
-    "url": "https://www.koeln.de/event/strassenfest-schulze-delitzsch-strasse/",
-    "description": "<p>Am 6. September 2026 lädt die Nachbarschaft der Schulze-Delitzsch-Straße zum Jubiläumsfest mit SDS-Septembermarkt und Straßenfest ein. Euch erwarten ein Trödelmarkt, Leckeres, Unterhaltung, Bühnenprogramm und Live-Musik mit den SDS Allstars und Gästen.</p>\\n",
-    "source": "koeln.de – Straßen- und Stadtfeste"
-  },
-  {
     "title": "Block-Party",
     "start": "2026-09-12T00:00:00+02:00",
     "end": "2026-09-13T23:59:59+02:00",
@@ -38,6 +8,16 @@
     "url": "https://www.koeln.de/event/block-party/",
     "description": "<p>Unter dem Motto “Man kennt sich, man hilft sich” steigt am 12. und 13. September 2026 eine Veedelsparty im Kwartier Latäng. Es gibt BBQ, Drinks & Kuchen, Live Musik & DJ Set, einen Flohmarkt, Yoga für Erwachsene und ein Kinderparadies mit XXL-Hüpfburg. Am Sonntag wird gemeinsam mit dem \"Tag des ... <a title=\"Block-Party\" class=\"read-more\" href=\"https://www.koeln.de/event/block-party/\" aria-label=\"Mehr Informationen über Block-Party\">mehr</a></p>\\n",
     "source": "koeln.de – Straßen- und Stadtfeste"
+  },
+  {
+    "title": "Neuehrenfest in der Landmannstraße",
+    "start": "2026-09-12T00:00:00+02:00",
+    "end": "2026-09-13T23:59:59+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/neuehrenfest-landmannstrasse/",
+    "description": "<p>Ein ganzes Wochenende bummeln, shoppen und kölsche Stimmung genießen, das ist möglich auf dem NeuehrenFest, dem Straßenfest auf der Landmannstraße in Neuehrenfeld. </p>\\n",
+    "source": "koeln.de – Märkte und Feste"
   },
   {
     "title": "Herthastraßenfest",
