@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:88a128ec501707eb089ec8cfdbf1007b@koeln-events
-DTSTAMP:20260912T084211Z
+DTSTAMP:20260913T093717Z
 DTSTART:20260911T220000Z
 DTEND:20260913T215959Z
 SUMMARY:Block-Party
@@ -29,7 +29,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bc96b5e65f56393a939ecaa7e8c79421@koeln-events
-DTSTAMP:20260912T084211Z
+DTSTAMP:20260913T093717Z
 DTSTART:20260911T220000Z
 DTEND:20260913T215959Z
 SUMMARY:Neuehrenfest in der Landmannstraße
@@ -44,25 +44,50 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2ab9f41b31da3c74c143a9a0c000d0d7@koeln-events
-DTSTAMP:20260912T084211Z
-DTSTART:20260912T110000Z
-DTEND:20260912T190000Z
-SUMMARY:Herthastraßenfest
+UID:ab96b288c8e2ab435393677c6290a510@koeln-events
+DTSTAMP:20260913T093717Z
+DTSTART:20260913T080000Z
+DTEND:20260913T140000Z
+SUMMARY:Tag des guten Lebens
+LOCATION:Rathenauplatz\, Rathenauplatz 50674 Köln
+DESCRIPTION:Der Tag des guten Lebens findet am 13. September in der Köln
+ er Innenstadt rund um den Rathenauplatz statt. Das Gebiet wird zur autof
+ reien Zone und öffnet Raum für Begegnung\, Kreativität und gemeinscha
+ ftliche Aktionen. Geplant sind vielfältige Mitmachformate – von Nachb
+ arschaftsaktionen über Workshops bis zu künstlerischen Beiträgen. The
+ matische Schwerpunkte wie Umwelt\, Mobilität\, Ernährung und gesellsch
+ aftliches Engagement prägen das Programm.\nQuelle: KölnTourismus – V
+ eranstaltungskalender
+CATEGORIES:KölnTourismus
+URL:https://www.koelntourismus.de/erlebnisse-lifestyle/veranstaltungen/de
+ tail/tag-des-guten-lebens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6063642539c1a60891440d389d8e021d@koeln-events
+DTSTAMP:20260913T093717Z
+DTSTART:20260913T100000Z
+DTEND:20260913T160000Z
+SUMMARY:Tag des guten Lebens 2026
 LOCATION:
-DESCRIPTION:<p>Bei dem Straßenfest in der Herthastraße in Zollstock lau
- tet das Motto in jedem Jahr „Von Nachbarn für Nachbarn“. Die Kreati
- vität und der nachbarschaftliche Einsatz machen den besonderen Charne d
- ieses einzigartigen Straßenfestes aus.</p>\\n\nQuelle: koeln.de – Str
- aßen- und Stadtfeste
-CATEGORIES:Straßenfest & Veedel
-URL:https://www.koeln.de/event/herthastrassenfest/
+DESCRIPTION:<p>Am Tag des guten Lebens werden ganze Veedel zur autofreien
+  Zone erklärt. Bei dem Fest erobern Anwohner die Straßen mit Frühstü
+ ckstafeln\, Kunst und gemeinsamen Happenings. 2026 kehrt das Event in di
+ e Innenstadt zurück - ins Viertel rund um den Rathenauplatz. Am 13. Sep
+ tember steigt in der Kölner Innenstadt im Rathenau-/Komponistenviertel 
+ der ... <a title="Tag des guten Lebens 2026" class="read-more" href="htt
+ ps://www.koeln.de/event/tag-des-guten-lebens-2026/" aria-label="Mehr Inf
+ ormationen über Tag des guten Lebens 2026">mehr</a></p>\\n\nQuelle: koe
+ ln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/tag-des-guten-lebens-2026/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:98633a9c8e557b697b7f7119a8bf8955@koeln-events
-DTSTAMP:20260912T084211Z
+DTSTAMP:20260913T093717Z
 DTSTART:20260919T090000Z
 DTEND:20260919T090000Z
 SUMMARY:Trimbornstraßenfest
@@ -83,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260912T084211Z
+DTSTAMP:20260913T093717Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
