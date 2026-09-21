@@ -1,25 +1,5 @@
 [
   {
-    "title": "Dä längste Desch vun Kölle",
-    "start": "2026-09-19T00:00:00+02:00",
-    "end": "2026-09-20T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/dae-laengste-desch/",
-    "description": "<p>Das Severinsviertel bittet zwei Tage lang zu Tisch. Aber nicht an irgendeinen, sondern an „Dä längste Desch vun Kölle“. </p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
-    "title": "Wein- und Hopfenfest Rath/Heumar",
-    "start": "2026-09-19T00:00:00+02:00",
-    "end": "2026-09-20T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/wein-und-hopfenfest-rath-heumar/",
-    "description": "<p>Freut euch aufs Wein- und Hopfenfest auf der Rösrather Straße. Es gibt regionale Weine, kulinarische Spezialitäten und Live-Musik. Ort: Rösrather Straße, 51107 Köln Alle Weinfeste in der Übersicht</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
     "title": "Das HALLE Tor 2 Weinfest 2.0",
     "start": "2026-09-25T00:00:00+02:00",
     "end": "2026-09-26T23:59:59+02:00",
@@ -37,6 +17,16 @@
     "category": "Markt & Fest",
     "url": "https://www.koeln.de/event/porzer-weinfest/",
     "description": "<p>Direkt an der Rheinpromenade könnt ihr beim Porzer Weinfest an drei Tagen erlesene Weine, kulinarische Köstlichkeiten und ein besonderes Ambiente genießen. Für die passende Stimmung sorgt ein abwechslungsreiches Musikprogramm – live oder aus der Konserve.</p>\\n",
+    "source": "koeln.de – Märkte und Feste"
+  },
+  {
+    "title": "Dellbrücker Festmeile",
+    "start": "2026-09-26T00:00:00+02:00",
+    "end": "2026-09-27T23:59:59+02:00",
+    "location": "",
+    "category": "Markt & Fest",
+    "url": "https://www.koeln.de/event/dellbruecker-festmeile/",
+    "description": "<p>Kölns größtes rechtsrheinische Straßenfest steigt in Dellbrück. Wenn die Dellbrücker Hauptstraße zur Festmeile wird, zieht es nicht nur die Veedelsbewohner, sondern alle Domstädter auf die „Schäl Sick“.</p>\\n",
     "source": "koeln.de – Märkte und Feste"
   },
   {

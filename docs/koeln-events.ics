@@ -8,39 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:33a3e581e7cfafc0fdf1b2d4475a44f3@koeln-events
-DTSTAMP:20260920T092123Z
-DTSTART:20260918T220000Z
-DTEND:20260920T215959Z
-SUMMARY:Dä längste Desch vun Kölle
-LOCATION:
-DESCRIPTION:<p>Das Severinsviertel bittet zwei Tage lang zu Tisch. Aber n
- icht an irgendeinen\, sondern an „Dä längste Desch vun Kölle“. </
- p>\\n\nQuelle: koeln.de – Märkte und Feste
-CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/dae-laengste-desch/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e665a7e5ac706ece0b0cdd9e499d0784@koeln-events
-DTSTAMP:20260920T092123Z
-DTSTART:20260918T220000Z
-DTEND:20260920T215959Z
-SUMMARY:Wein- und Hopfenfest Rath/Heumar
-LOCATION:
-DESCRIPTION:<p>Freut euch aufs Wein- und Hopfenfest auf der Rösrather St
- raße. Es gibt regionale Weine\, kulinarische Spezialitäten und Live-Mu
- sik. Ort: Rösrather Straße\, 51107 Köln Alle Weinfeste in der Übersi
- cht</p>\\n\nQuelle: koeln.de – Märkte und Feste
-CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/wein-und-hopfenfest-rath-heumar/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:a7c1a8a8539ee30d6c390e56f8d5bda8@koeln-events
-DTSTAMP:20260920T092123Z
+DTSTAMP:20260921T100345Z
 DTSTART:20260924T220000Z
 DTEND:20260926T215959Z
 SUMMARY:Das HALLE Tor 2 Weinfest 2.0
@@ -61,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d04a4e70ffd60972ef1f0453de4da039@koeln-events
-DTSTAMP:20260920T092123Z
+DTSTAMP:20260921T100345Z
 DTSTART:20260924T220000Z
 DTEND:20260927T215959Z
 SUMMARY:Porzer Weinfest
@@ -77,8 +46,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:177f491018b19bee819476d083a56822@koeln-events
+DTSTAMP:20260921T100345Z
+DTSTART:20260925T220000Z
+DTEND:20260927T215959Z
+SUMMARY:Dellbrücker Festmeile
+LOCATION:
+DESCRIPTION:<p>Kölns größtes rechtsrheinische Straßenfest steigt in D
+ ellbrück. Wenn die Dellbrücker Hauptstraße zur Festmeile wird\, zieht
+  es nicht nur die Veedelsbewohner\, sondern alle Domstädter auf die „
+ Schäl Sick“.</p>\\n\nQuelle: koeln.de – Märkte und Feste
+CATEGORIES:Markt & Fest
+URL:https://www.koeln.de/event/dellbruecker-festmeile/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260920T092123Z
+DTSTAMP:20260921T100345Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
