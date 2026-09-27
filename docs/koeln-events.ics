@@ -8,29 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:a7c1a8a8539ee30d6c390e56f8d5bda8@koeln-events
-DTSTAMP:20260926T092537Z
-DTSTART:20260924T220000Z
-DTEND:20260926T215959Z
-SUMMARY:Das HALLE Tor 2 Weinfest 2.0
-LOCATION:Die Halle Tor 2\, Girlitzweg 30 50829 Köln
-DESCRIPTION:<p>Das HALLE Tor 2 Weinfest geht in die nächste Runde: Nach 
- dem großen Erfolg der vergangenen Ausgaben lädt die Herbstausgabe zur 
- Weinlese erneut zu zwei genussvollen Abenden ein. Freuen dürft ihr euch
-  auf eine großen Auswahl an Weinen aus verschiedenen Ländern\, leckere
- s Streetfood und entspannte Atmosphäre. Weinexpert stellen ihre Lieblin
- gsweine ... <a title="Das HALLE Tor 2 Weinfest 2.0" class="read-more" hr
- ef="https://www.koeln.de/event/das-halle-tor-2-weinfest/" aria-label="Me
- hr Informationen über Das HALLE Tor 2 Weinfest 2.0">mehr</a></p>\\n\nQu
- elle: koeln.de – Märkte und Feste
-CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/das-halle-tor-2-weinfest/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:d04a4e70ffd60972ef1f0453de4da039@koeln-events
-DTSTAMP:20260926T092537Z
+DTSTAMP:20260927T100512Z
 DTSTART:20260924T220000Z
 DTEND:20260927T215959Z
 SUMMARY:Porzer Weinfest
@@ -47,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:177f491018b19bee819476d083a56822@koeln-events
-DTSTAMP:20260926T092537Z
+DTSTAMP:20260927T100512Z
 DTSTART:20260925T220000Z
 DTEND:20260927T215959Z
 SUMMARY:Dellbrücker Festmeile
@@ -63,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260926T092537Z
+DTSTAMP:20260927T100512Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
