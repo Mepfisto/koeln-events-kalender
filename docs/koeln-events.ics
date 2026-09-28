@@ -8,54 +8,39 @@ X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:d04a4e70ffd60972ef1f0453de4da039@koeln-events
-DTSTAMP:20260927T100512Z
-DTSTART:20260924T220000Z
-DTEND:20260927T215959Z
-SUMMARY:Porzer Weinfest
-LOCATION:
-DESCRIPTION:<p>Direkt an der Rheinpromenade könnt ihr beim Porzer Weinfe
- st an drei Tagen erlesene Weine\, kulinarische Köstlichkeiten und ein b
- esonderes Ambiente genießen. Für die passende Stimmung sorgt ein abwec
- hslungsreiches Musikprogramm – live oder aus der Konserve.</p>\\n\nQue
- lle: koeln.de – Märkte und Feste
+UID:372753a1883027c17056b569cda7db35@koeln-events
+DTSTAMP:20260928T110323Z
+DTSTART:20261006T220000Z
+DTEND:20261011T215959Z
+SUMMARY:Mülheimer Weinwoche
+LOCATION:Stadthalle Köln-Mülheim\, Jan-Wellem-Straße 2 51065 Köln
+DESCRIPTION:<p>Im Palmengarten der Stadthalle in Köln-Mülheim könnt ih
+ r euch vom 7. bis 11. Oktober ausgewählte Weine und dazu passende Lecke
+ reien gönnen. An fünf Tagen könnt ihr hier probieren\, entdecken und 
+ vor allem gemeinsam genießen. Dazu gibt es herbstliches Palmengarten-Fl
+ air\, gemütliche Plätze und mit ein bisschen Glück noch goldene Oktob
+ ersonne.</p>\\n\nQuelle: koeln.de – Märkte und Feste
 CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/porzer-weinfest/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:177f491018b19bee819476d083a56822@koeln-events
-DTSTAMP:20260927T100512Z
-DTSTART:20260925T220000Z
-DTEND:20260927T215959Z
-SUMMARY:Dellbrücker Festmeile
-LOCATION:
-DESCRIPTION:<p>Wenn die Dellbrücker Hauptstraße zur Festmeile wird\, zi
- eht es nicht nur die Veedelsbewohner\, sondern alle Domstädter auf die 
- „Schäl Sick“ zu Kölns größtem rechtsrheinischen Straßenfest.</p
- >\\n\nQuelle: koeln.de – Märkte und Feste
-CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/dellbruecker-festmeile/
+URL:https://www.koeln.de/event/muelheimer-weinwoche/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260927T100512Z
+DTSTAMP:20260928T110323Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
 LOCATION:
-DESCRIPTION:<p>Mit dem Herbstfest wird ab dem 9. Oktober die Lindenthaler
-  Kunstaktion Street Gallery eingeläutet. Drei Tage lange verwandelt sic
- h der Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Sp
- eisen\, leckeren Weinen sowie Cocktails\, Kölsch und Softdrinks. Dazu g
- ibt es Musik\, spannende Aktionen\, sowie Hüpfburgen und ein Kinderkaru
- ssell für die Pänz. Am Sonntag ... <a title="Lindenthaler Herbstfest" 
- class="read-more" href="https://www.koeln.de/event/lindenthaler-herbstfe
- st/" aria-label="Mehr Informationen über Lindenthaler Herbstfest">mehr<
- /a></p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+DESCRIPTION:<p>Mit dem Herbstfest wird am 9. Oktober die Lindenthaler Kun
+ staktion Street Gallery eingeläutet. Drei Tage lange verwandelt sich de
+ r Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Speise
+ n\, leckeren Weinen sowie Cocktails\, Kölsch und Softdrinks. Dazu gibt 
+ es Musik\, spannende Aktionen\, sowie Hüpfburgen und ein Kinderkarussel
+ l für die Pänz. Am Sonntag erwartet ... <a title="Lindenthaler Herbstf
+ est" class="read-more" href="https://www.koeln.de/event/lindenthaler-her
+ bstfest/" aria-label="Mehr Informationen über Lindenthaler Herbstfest">
+ mehr</a></p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
 CATEGORIES:Straßenfest & Veedel
 URL:https://www.koeln.de/event/lindenthaler-herbstfest/
 STATUS:CONFIRMED

@@ -1,22 +1,12 @@
 [
   {
-    "title": "Porzer Weinfest",
-    "start": "2026-09-25T00:00:00+02:00",
-    "end": "2026-09-27T23:59:59+02:00",
-    "location": "",
+    "title": "Mülheimer Weinwoche",
+    "start": "2026-10-07T00:00:00+02:00",
+    "end": "2026-10-11T23:59:59+02:00",
+    "location": "Stadthalle Köln-Mülheim, Jan-Wellem-Straße 2 51065 Köln",
     "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/porzer-weinfest/",
-    "description": "<p>Direkt an der Rheinpromenade könnt ihr beim Porzer Weinfest an drei Tagen erlesene Weine, kulinarische Köstlichkeiten und ein besonderes Ambiente genießen. Für die passende Stimmung sorgt ein abwechslungsreiches Musikprogramm – live oder aus der Konserve.</p>\\n",
-    "source": "koeln.de – Märkte und Feste"
-  },
-  {
-    "title": "Dellbrücker Festmeile",
-    "start": "2026-09-26T00:00:00+02:00",
-    "end": "2026-09-27T23:59:59+02:00",
-    "location": "",
-    "category": "Markt & Fest",
-    "url": "https://www.koeln.de/event/dellbruecker-festmeile/",
-    "description": "<p>Wenn die Dellbrücker Hauptstraße zur Festmeile wird, zieht es nicht nur die Veedelsbewohner, sondern alle Domstädter auf die „Schäl Sick“ zu Kölns größtem rechtsrheinischen Straßenfest.</p>\\n",
+    "url": "https://www.koeln.de/event/muelheimer-weinwoche/",
+    "description": "<p>Im Palmengarten der Stadthalle in Köln-Mülheim könnt ihr euch vom 7. bis 11. Oktober ausgewählte Weine und dazu passende Leckereien gönnen. An fünf Tagen könnt ihr hier probieren, entdecken und vor allem gemeinsam genießen. Dazu gibt es herbstliches Palmengarten-Flair, gemütliche Plätze und mit ein bisschen Glück noch goldene Oktobersonne.</p>\\n",
     "source": "koeln.de – Märkte und Feste"
   },
   {
@@ -26,7 +16,7 @@
     "location": "",
     "category": "Straßenfest & Veedel",
     "url": "https://www.koeln.de/event/lindenthaler-herbstfest/",
-    "description": "<p>Mit dem Herbstfest wird ab dem 9. Oktober die Lindenthaler Kunstaktion Street Gallery eingeläutet. Drei Tage lange verwandelt sich der Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Speisen, leckeren Weinen sowie Cocktails, Kölsch und Softdrinks. Dazu gibt es Musik, spannende Aktionen, sowie Hüpfburgen und ein Kinderkarussell für die Pänz. Am Sonntag ... <a title=\"Lindenthaler Herbstfest\" class=\"read-more\" href=\"https://www.koeln.de/event/lindenthaler-herbstfest/\" aria-label=\"Mehr Informationen über Lindenthaler Herbstfest\">mehr</a></p>\\n",
+    "description": "<p>Mit dem Herbstfest wird am 9. Oktober die Lindenthaler Kunstaktion Street Gallery eingeläutet. Drei Tage lange verwandelt sich der Karl-Schwering-Platz in eine Gourmetmeile mit unterschiedlichen Speisen, leckeren Weinen sowie Cocktails, Kölsch und Softdrinks. Dazu gibt es Musik, spannende Aktionen, sowie Hüpfburgen und ein Kinderkarussell für die Pänz. Am Sonntag erwartet ... <a title=\"Lindenthaler Herbstfest\" class=\"read-more\" href=\"https://www.koeln.de/event/lindenthaler-herbstfest/\" aria-label=\"Mehr Informationen über Lindenthaler Herbstfest\">mehr</a></p>\\n",
     "source": "koeln.de – Straßen- und Stadtfeste"
   }
 ]
