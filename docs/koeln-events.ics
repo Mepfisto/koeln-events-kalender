@@ -8,26 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:372753a1883027c17056b569cda7db35@koeln-events
-DTSTAMP:20260928T110323Z
-DTSTART:20261006T220000Z
-DTEND:20261011T215959Z
-SUMMARY:Mülheimer Weinwoche
-LOCATION:Stadthalle Köln-Mülheim\, Jan-Wellem-Straße 2 51065 Köln
-DESCRIPTION:<p>Im Palmengarten der Stadthalle in Köln-Mülheim könnt ih
- r euch vom 7. bis 11. Oktober ausgewählte Weine und dazu passende Lecke
- reien gönnen. An fünf Tagen könnt ihr hier probieren\, entdecken und 
- vor allem gemeinsam genießen. Dazu gibt es herbstliches Palmengarten-Fl
- air\, gemütliche Plätze und mit ein bisschen Glück noch goldene Oktob
- ersonne.</p>\\n\nQuelle: koeln.de – Märkte und Feste
-CATEGORIES:Markt & Fest
-URL:https://www.koeln.de/event/muelheimer-weinwoche/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:f2652e16beb55942ed8225f005451fb5@koeln-events
-DTSTAMP:20260928T110323Z
+DTSTAMP:20260929T104753Z
 DTSTART:20261008T220000Z
 DTEND:20261011T215959Z
 SUMMARY:Lindenthaler Herbstfest
