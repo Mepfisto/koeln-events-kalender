@@ -8,8 +8,43 @@ X-WR-TIMEZONE:Europe/Berlin
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
+UID:0857ecec17c7b1bcab376b3d8ddfd08e@koeln-events
+DTSTAMP:20261029T105837Z
+DTSTART:20270505T220000Z
+DTEND:20270509T215959Z
+SUMMARY:Frühlingsfest auf der Rheinuferpromenade
+LOCATION:
+DESCRIPTION:<p>In zentraler Lage direkt am Rhein wird am Himmelfahrtswoch
+ enende (6. bis 9. Mai 2027) der Frühling gefeiert. Händler mit Kunstha
+ ndwerk\, Goldschmiedearbeiten\, Designkleiderstücken\, Foodtruckstände
+ \, Biergarten und Weinstände erwarten euch auf der Rheinuferpromenade.<
+ /p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/fruehlingsfest-auf-der-rheinuferpromenade/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93b3b0d89476d3bdf4815924fabc60e5@koeln-events
+DTSTAMP:20261029T105837Z
+DTSTART:20270513T220000Z
+DTEND:20270517T215959Z
+SUMMARY:Trauben- und Hopfenfest Dellbrück
+LOCATION:
+DESCRIPTION:<p>Neben dem beliebten Trauben- und Hopfenfest am Kölner Rhe
+ inufer finden seit eingen Jahren auch Trauben- und Hopfenfeste in wechse
+ lnden Kölner Stadtteilen statt. Am Pfingstwochenende 2027 steigt das Fe
+ st in Dellbrück. Vom 14. bis zum 17. Mai wartet auf der Kemperwiese ein
+  breites Angebot auf Weinliebhaber und Bierkenner.</p>\\n\nQuelle: koeln
+ .de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/trauben-und-hopfenfest-dellbrueck/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:40387eccfe6a08f903135cd7e0086f92@koeln-events
-DTSTAMP:20261028T104106Z
+DTSTAMP:20261029T105837Z
 DTSTART:20270527T220000Z
 DTEND:20270530T215959Z
 SUMMARY:Deepejasser Kirmes
@@ -29,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:29b28e36af2443570994175423799494@koeln-events
-DTSTAMP:20261028T104106Z
+DTSTAMP:20261029T105837Z
 DTSTART:20270612T180000Z
 DTEND:20270612T215959Z
 SUMMARY:Dünnwalder Musiknacht
