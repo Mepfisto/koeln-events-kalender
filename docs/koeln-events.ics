@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:0857ecec17c7b1bcab376b3d8ddfd08e@koeln-events
-DTSTAMP:20261029T105837Z
+DTSTAMP:20261030T105614Z
 DTSTART:20270505T220000Z
 DTEND:20270509T215959Z
 SUMMARY:Frühlingsfest auf der Rheinuferpromenade
@@ -25,8 +25,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:6f5862b1da2e62804b875514611f652d@koeln-events
+DTSTAMP:20261030T105614Z
+DTSTART:20270507T220000Z
+DTEND:20270509T215959Z
+SUMMARY:Bunt im Carrée
+LOCATION:Quartier B\, Venloer Straße 769 50827 Köln
+DESCRIPTION:<p>Was vor Jahren als Straßenfest im Carrée Sülz/Klettenbe
+ rg begann\, wird in diesem Jahr zu einem Musikfestival in Ehrenfeld. Auf
+  dem Veranstaltungsgelände "Quartier B" an der Venloer Straße in Bicke
+ ndorf sind auf drei Bühnen Auftritte von Bands\, Musikern und DJs aus K
+ öln und der Region geplant. Für das leibliche Wochl sorgen ... <a titl
+ e="Bunt im Carrée" class="read-more" href="https://www.koeln.de/event/b
+ unt-im-carree/" aria-label="Mehr Informationen über Bunt im Carrée">me
+ hr</a></p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/bunt-im-carree/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:93b3b0d89476d3bdf4815924fabc60e5@koeln-events
-DTSTAMP:20261029T105837Z
+DTSTAMP:20261030T105614Z
 DTSTART:20270513T220000Z
 DTEND:20270517T215959Z
 SUMMARY:Trauben- und Hopfenfest Dellbrück
@@ -44,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:40387eccfe6a08f903135cd7e0086f92@koeln-events
-DTSTAMP:20261029T105837Z
+DTSTAMP:20261030T105614Z
 DTSTART:20270527T220000Z
 DTEND:20270530T215959Z
 SUMMARY:Deepejasser Kirmes
@@ -63,8 +83,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:72dbd270c0216fb7a9f44e6d48f9b9aa@koeln-events
+DTSTAMP:20261030T105614Z
+DTSTART:20270604T220000Z
+DTEND:20270606T215959Z
+SUMMARY:Musikfestival Rath/Heumar
+LOCATION:
+DESCRIPTION:<p>Musik im Veedel und davon jede Menge gibt es am 5. und 6. 
+ Juni 2027 beim Musikfest in Rath/Heumar. Beim 30-jährigen Jubiläum des
+  Festivals treten 20 Bands und Künstler live auf zwei Bühnen auf! In d
+ en vergangenen Jahren gab es dazu auch noch immer einen verkaufsoffenen 
+ Sonntag.</p>\\n\nQuelle: koeln.de – Straßen- und Stadtfeste
+CATEGORIES:Straßenfest & Veedel
+URL:https://www.koeln.de/event/musikfestival-rath-heumar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:29b28e36af2443570994175423799494@koeln-events
-DTSTAMP:20261029T105837Z
+DTSTAMP:20261030T105614Z
 DTSTART:20270612T180000Z
 DTEND:20270612T215959Z
 SUMMARY:Dünnwalder Musiknacht
