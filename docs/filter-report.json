@@ -78,6 +78,12 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
+    "title": "Spiele- und Geschenkeflohmarkt in Raderthal",
+    "source": "koeln.de – Märkte und Feste",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
     "title": "Musikflohmarkt in Chorweiler",
     "source": "koeln.de – Märkte und Feste",
     "included": false,
@@ -103,12 +109,6 @@
   },
   {
     "title": "Flohmarkt im Hürth Park",
-    "source": "koeln.de – Märkte und Feste",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Flohmarkt an der Galopprennbahn",
     "source": "koeln.de – Märkte und Feste",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
@@ -168,6 +168,12 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
+    "title": "Spiele- und Geschenkeflohmarkt in Raderthal",
+    "source": "koeln.de – Märkte und Feste",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
     "title": "Musikflohmarkt in Chorweiler",
     "source": "koeln.de – Märkte und Feste",
     "included": false,
@@ -210,12 +216,6 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
-    "title": "Flohmarkt an der Galopprennbahn",
-    "source": "koeln.de – Märkte und Feste",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
     "title": "Das Phantom der Oper",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
@@ -396,7 +396,181 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
-    "title": "FILM AB! 130 Jahre Kino und Film in Köln",
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Michael Schumacher Private Collection",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
@@ -571,6 +745,552 @@
   },
   {
     "title": "FILM AB! 130 Jahre Kino und Film in Köln",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "FILM AB! 130 Jahre Kino und Film in Köln",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Intervention!",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Kiddy Trip",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Weihnachtmarkt am Kurienhaus",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
@@ -816,912 +1536,6 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
-    "title": "return",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Weihnachtmarkt am Kurienhaus",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Michael Schumacher Private Collection",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Kiddy Trip",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Keine Positivregel erfüllt"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Licht in dunklen Zeiten",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Intervention!",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
     "title": "Faszination Schmuck",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
@@ -1890,7 +1704,181 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
-    "title": "Faszination Schmuck",
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Licht in dunklen Zeiten",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
@@ -2071,546 +2059,6 @@
   },
   {
     "title": "Along the Color Line",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Die Heinzel zu Köln",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Zum Mondjahr des Pferdes",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Lebendige Bilder",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Ser Serpas - sonderbare Tage",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
@@ -2890,6 +2338,354 @@
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Zum Mondjahr des Pferdes",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Markt der Engel",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
   },
   {
     "title": "The Leatherman",
@@ -2910,294 +2706,6 @@
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
   },
   {
-    "title": "The Leatherman",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Anatomical Theatre",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
-    "title": "Kölner Hafen-Weihnachtsmarkt",
-    "source": "KölnTourismus – Veranstaltungskalender",
-    "included": false,
-    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
-  },
-  {
     "title": "Dom (außen) und Altstadt Tour mit Kölsch",
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
@@ -3556,5 +3064,539 @@
     "source": "KölnTourismus – Veranstaltungskalender",
     "included": false,
     "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Kölner Hafen-Weihnachtsmarkt",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Heinzels Wintermärchen",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Ausschlussbegriff erkannt: 'hard_exclude_keywords'"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
+  },
+  {
+    "title": "Nikolausdorf",
+    "source": "KölnTourismus – Veranstaltungskalender",
+    "included": false,
+    "reason": "Keine Positivregel erfüllt"
   }
 ]
